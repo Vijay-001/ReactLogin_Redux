@@ -1,2 +1,2 @@
-# ReactLogin_Redux
-React Login Application for Redux and saga
+# React Login Application using Redux and saga
+
